@@ -1,0 +1,30 @@
+body{
+ background-color: #0095DD; 
+ padding:20px;
+}
+
+
+#canvas{
+ height:800px;
+ width:1000px;
+ background-color:lightcyan;
+ opacity:1;
+ margin-left:400px;
+ padding:5px;
+ border-radius: 4px;
+ }
+
+#board{
+    color:'#FFFFFF';
+    background-color: limegreen;
+    height:50px;
+    width:100px;
+    position: absolute;
+    top:200px;
+    left:1600px;
+    padding-left:10px;
+    padding-right:14px;
+    font-weight: bold;
+    font-size:1.2em;
+    padding-top:13px; 
+}
